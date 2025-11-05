@@ -1,4 +1,4 @@
-package week09.milano.id.ac.umn;
+package week09.milano.id.ac.umn.InterfaceAnimal;
 
 public class Mammal implements Animal {
     public Mammal() {}
