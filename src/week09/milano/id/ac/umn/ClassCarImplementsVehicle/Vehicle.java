@@ -1,4 +1,4 @@
-package week09.milano.id.ac.umn;
+package week09.milano.id.ac.umn.ClassCarImplementsVehicle;
 
 public class Vehicle {
     interface Action {
