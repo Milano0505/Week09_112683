@@ -1,6 +1,6 @@
-package week09.milano.id.ac.umn;
+package week09.milano.id.ac.umn.MultipleInheritance;
 
-public class c implements a, b{
+public class c implements a, b {
     public void displayA() {
         System.out.println("Display A");
     }
